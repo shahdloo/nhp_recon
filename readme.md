@@ -6,7 +6,7 @@
 Awake NHP fMRI reconstruction with dynamic off-resonance correction
 ---
 This is a MWE demonstrating the technique described in the following references
-* Shahdloo M., Papp D., Schüffelgen U., Miller K., and Chiew M. (2021). Model-based dynamic off-resonance correction for improved accelerated fMRI in awake behaving non-human primates. bioRxiv 
+* Shahdloo M., Papp D., Schüffelgen U., Miller K., and Chiew M. (2021). Model-based dynamic off-resonance correction for improved accelerated fMRI in awake behaving non-human primates. bioRxiv. [(html)](https://www.biorxiv.org/content/10.1101/2021.09.23.461491v1) [(pdf)](https://moshahdloo.com/uploads/NHP_moco.pdf)
   
 * Shahdloo M., Papp D., Schüffelgen U., Miller K., Rushworth M., and Chiew M. (2021). Highly accelerated fMRI of awake behaving non-human primates via model-based dynamic off-resonance correction. ISMRM. Online. [(pdf)](https://moshahdloo.com/uploads/2596.pdf)
 
